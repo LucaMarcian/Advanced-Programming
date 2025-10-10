@@ -12,7 +12,5 @@ The libraries employed by the program are
 - PyQt5
 - Matplotlib
 - Pandas
-- os
-- sys
 - requests
 
