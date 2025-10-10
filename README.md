@@ -8,10 +8,11 @@ Correct functioning:
 For correct program functioning you should keep the three Python scripts in the same folder. The full functionalities are accessed by running the "MainMenu.py" file. The other two scripts will run on their own but the experience won't be full
 
 Required libraries:
-The libraries employed by the program are:
+The libraries employed by the program are
 - PyQt5
 - Matplotlib
 - Pandas
 - os
 - sys
+- requests
 
